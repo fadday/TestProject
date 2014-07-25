@@ -16,6 +16,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	int i = myAbs(-32);
 	int j = myAbs(89);
 
+	std::cout << "If u can read it, the TeamCity work" << std::endl;
+
 	std::cout << i << std::endl;
 	std::cout << j << std::endl;
 
