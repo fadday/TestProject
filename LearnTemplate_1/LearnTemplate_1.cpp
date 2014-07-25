@@ -18,6 +18,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	std::cout << "If u can read it, the TeamCity work" << std::endl;
 
+	std::cout << "This is a text for complete first task" << std::endl;
+
 	std::cout << i << std::endl;
 	std::cout << j << std::endl;
 
